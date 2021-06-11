@@ -9,7 +9,7 @@ A new Flutter project.
     1. ### Stateless
     2. ### StateFull
 2. ## Material App
-3. ## Scanffold 
+3. ## Scaffold 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
